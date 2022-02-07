@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="Tezina">Difficulty level:</string>
+    <string name="Lako">Easy</string>
+    <string name="Srednje">Medium</string>
+    <string name="Tesko">Hard</string>
+    <string name="brojPitanja">Number of questions:</string>
+    <string name="Start">Start</string>
+    <string name="gameName">Programming I</string>
+</resources>

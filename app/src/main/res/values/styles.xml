@@ -1,0 +1,16 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#ebb414</item>
+        <item name="colorPrimaryDark">#ebb414</item>
+        <item name="colorAccent">#ebb414</item>
+    </style>
+
+    <style name="AppTheme.Button" parent="Widget.AppCompat.Button">
+        <item name="colorButtonNormal">#bdbdbd</item>
+        <item name="android:textColor">#fff</item>
+    </style>
+
+</resources>

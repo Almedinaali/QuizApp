@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+
+    <string name="gameName">Programiranje I</string>
+
+    <string name="Tezina">Težina kviza: </string>
+    <string name="Lako">Lako</string>
+    <string name="Srednje">Srednje</string>
+    <string name="Tesko">Teško</string>
+
+    <string name="brojPitanja">Broj pitanja: </string>
+    <string name="Pet" translatable="false">5</string>
+    <string name="Deset" translatable="false">10</string>
+    <string name="Petnaest" translatable="false">15</string>
+
+    <string name="Start">Započni kviz</string>
+</resources>
